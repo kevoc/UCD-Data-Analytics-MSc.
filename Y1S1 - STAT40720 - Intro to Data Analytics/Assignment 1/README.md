@@ -11,13 +11,10 @@ A question requiring the application of Chebyshev's Theorem to calculate the ran
 Probability calculations, given a tabulated probability distribution of the mean usage of four telephone lines in a company.
 
 ### Question 3
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
 
 1. Finding the value, _i_, of a co-efficient inside a given Probability Mass Function applicable over a range.
 
-1. A probability calculation using the solution to the PMF found in part A.
+1. A probability calculation using the solution to the PMF found in part 1.
 
 ### Question 4
 
